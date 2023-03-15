@@ -10,7 +10,6 @@ import { TimerComponent } from './timer/timer.component';
   imports: [CommonModule, TimerComponent],
   template: `
     <app-timer></app-timer>
-    <hr/>
   `,
 })
 export class App {
