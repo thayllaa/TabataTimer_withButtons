@@ -13,5 +13,9 @@ export class TimerComponent implements OnInit {
   ngOnInit() {
   }
 
-  
+  start() {}
+
+  pause() {}
+
+  stop() {}
 }
