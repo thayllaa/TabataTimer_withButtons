@@ -9,13 +9,12 @@ import { TimerComponent } from './timer/timer.component';
   standalone: true,
   imports: [CommonModule, TimerComponent],
   template: `
-    <h1>{{name}}</h1>
     <app-timer></app-timer>
     <hr/>
   `,
 })
 export class App {
-  name = 'Tabata Timer with Buttons';
+  
 }
 
 bootstrapApplication(App);
