@@ -11,6 +11,7 @@ import { TimerComponent } from './timer/timer.component';
   template: `
     <h1>{{name}}</h1>
     <app-timer></app-timer>
+    <hr/>
   `,
 })
 export class App {
