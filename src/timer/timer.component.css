@@ -1,0 +1,21 @@
+/* Add application styles & imports to this file! */
+h1 {
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+  color: purple;
+}
+
+h3 {
+  font-family: 'Times New Roman', Times, serif;
+  color: purple;
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: purple;
+  color: white;
+  text-align: center;
+}
