@@ -11,10 +11,6 @@ export class TimerComponent implements OnInit {
 
   ngOnInit() {}
 
-  let acao = '';
-  let ciclo = 0;
-  let tempo = 5;
-
   start() {}
 
   pause() {}
